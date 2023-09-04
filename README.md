@@ -1,5 +1,5 @@
 # form-beasiswa
-Form Pendaftaran Beasiswa Sederhana &amp; Simple Dengan PHP Native
+Form Pendaftaran Beasiswa Untuk Mahasiswa Sederhana &amp; Simple Dengan PHP Native
 
 ## Preview
 ![01-id-yuu1](https://github.com/Id-Yuu/form-beasiswa/assets/122996864/eb76d11f-839e-425c-91a6-fb38935a8511)
