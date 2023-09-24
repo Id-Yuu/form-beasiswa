@@ -2,7 +2,7 @@
     $server = "localhost";
     $user = "root";
     $pass = "";
-    $db = "vsga-beasiswa-ayyub";
+    $db = "vsga-beasiswa-ayyub"; // cek database di "localhost/phpmyadmin", cek juga data sql yang sudah disediakan.
 
     try {
         $conn = mysqli_connect($server, $user, $pass, $db);
